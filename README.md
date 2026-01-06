@@ -81,4 +81,4 @@ You can implement this by reading the **analog output (AO)** of the sensor and s
 - Ahmad Faez Zulhakim bin Ahmad Badli — Technical :contentReference[oaicite:6]{index=6}
 
 ## Reference
-- Project Proposal PDF (Smart Noise Level Indicator in Leisure Reading Area, IIUM Library) :contentReference[oaicite:7]{index=7}
+- Project Proposal PDF (Smart Noise Level Indicator in Leisure Reading Area, IIUM Library)
